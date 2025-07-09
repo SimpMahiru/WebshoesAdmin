@@ -9,7 +9,6 @@ function DropDown({
   isFullWidth = true,
   isMargin = false,
 }: any) {
-  return (
     <FormControl
       sx={isMargin && { marginTop: 2, marginBottom: 2 }}
       fullWidth={isFullWidth}
