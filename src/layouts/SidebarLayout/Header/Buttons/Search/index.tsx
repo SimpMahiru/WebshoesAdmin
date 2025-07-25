@@ -236,7 +236,7 @@ function HeaderSearch() {
                       sx={{ fontWeight: 'bold' }}
                       variant="body2"
                     >
-                      Search Results Page
+                      Trang kết quả tìm kiếm
                     </Link>
                   </Box>
                   <Typography

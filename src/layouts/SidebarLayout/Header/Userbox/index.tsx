@@ -89,7 +89,7 @@ function HeaderUserbox() {
               {utils.getRole(Number(currentUser.role))}
             </UserBoxDescription>
           </UserBoxText>
-        {/* </Hidden> */}
+        {/* </Hidden>  */}
         {/* <Hidden smDown> */}
           <ExpandMoreTwoToneIcon sx={{ ml: 1 }} />
         {/* </Hidden> */}
