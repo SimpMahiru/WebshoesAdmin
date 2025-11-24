@@ -87,7 +87,7 @@ function Sidebar() {
             size="small"
             fullWidth
           >
-            Đăng xuất
+            Đăng xuất !
           </Button>
         </Box>
       </SidebarWrapper>
